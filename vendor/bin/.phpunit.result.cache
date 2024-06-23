@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TestesClasses::test_existeDados":4,"TestesClasses::test_existeDadosProdutos":3,"TestesClasses::test_existeDadosCategorias":3},"times":{"TestesClasses::test_existeDados":0.009,"TestesClasses::test_existeDadosProdutos":0.073,"TestesClasses::test_existeDadosCategorias":0.002}}

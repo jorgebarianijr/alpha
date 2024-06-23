@@ -1,0 +1,24 @@
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+/** INICIO ESTILOS DOS FORMULÁRIOS DOS MODAIS **/
+.modal select, .modal input{
+  width: 100%;
+  margin-bottom: 15px;
+  height: 40px;
+  border: solid 1px rgba(162, 145, 255, 0.768);
+  padding: 5px;
+  border-radius: 5px;
+}
+.modal label{
+  font-size: 12px;
+  font-weight: 700;
+  color: #818181;
+}
+/** FIM ESTILOS DOS FORMULÁRIOS DOS MODAIS **/
